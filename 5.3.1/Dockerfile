@@ -1,4 +1,4 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:5.3.1
+FROM elasticsearch:5.3.1
 
 MAINTAINER Kim Nguyen <kimnguyen.ict@gmail.com>
 
